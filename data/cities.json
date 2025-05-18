@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "8cad",
+      "cityName": "Chandlodiya",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-05-13T06:29:08.498Z",
+      "notes": "dfghjkl",
+      "position": {
+        "lat": "23.09059005800677",
+        "lng": "72.53375530242921"
+      }
+    },
+    {
+      "id": "dcbc",
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-05-13T06:45:57.631Z",
+      "notes": "",
+      "position": {
+        "lat": "22.971217572243805",
+        "lng": "72.56332397460939"
+      }
+    },
+    {
+      "id": "c445",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-05-13T07:46:48.047Z",
+      "notes": "Hello",
+      "position": {
+        "lat": "40.0004666715747",
+        "lng": "-0.0024762158864177768"
+      }
+    },
+    {
+      "id": "61c3",
+      "cityName": "Mount Johns",
+      "country": "Australia",
+      "emoji": "AU",
+      "date": "2025-05-13T09:01:18.701Z",
+      "notes": "Hyyy",
+      "position": {
+        "lat": "-23.72401708189074",
+        "lng": "133.87499973177913"
+      }
+    },
+    {
+      "id": "bafe",
+      "cityName": "Sanand",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2025-05-13T10:11:11.846Z",
+      "notes": "",
+      "position": {
+        "lat": "23.03789952664602",
+        "lng": "72.46703481621809"
+      }
+    }
+  ]
+}
