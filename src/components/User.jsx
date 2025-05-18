@@ -12,7 +12,6 @@ import styles from './User.module.css'
 
 export default function User() {
     const {user, logout} = useAuthContext();
-    console.log("user", user)
     const navigate = useNavigate();
 
     function handleClick(){
